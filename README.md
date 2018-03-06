@@ -1,0 +1,3 @@
+# Turtle Draw
+
+I remember in primary school learning turtle programming on a Vic 20. I never realised that Python had a standard turtle module until I recently stumbled across it during a google search. I decided to make a simple turtle draw game that my 5 year old daughter could play using the keyboard. I used [Pyinstaller](http://www.pyinstaller.org/) to build an executible on my linux pc, but this can also be done on Windows or Mac.
